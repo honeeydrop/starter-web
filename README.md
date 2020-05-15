@@ -19,4 +19,4 @@ jjjjjj
 
 copyright notice
 
-ALL RIGHTS
+FIX ALL RIGHTS
