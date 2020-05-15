@@ -18,3 +18,5 @@ jjjjjj
 #well
 
 copyright notice
+
+ALL RIGHTS
